@@ -1,16 +1,16 @@
 body {
   position: relative;
 	font-family: "Georgia", "Times New Roman", Serif;
-	font-size: 16px;
+	font-size: 17px;
 	line-height: 25px;
   color: #323232;
   margin: 0 auto;
   padding: 0;
   overflow-x: hidden;
   box-sizing: border-box;
-  max-width: 1440px;
+  max-width: 1100px;
   background-color: white;
-  box-shadow: 0 0 40px rgba(0,0,0,0.1);
+box-shadow: 0 0 5px rgba(0,0,0,.05);
 }
 
 
@@ -121,7 +121,7 @@ blockquote {
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-  width: 50%;
+  width: 80%;
   box-sizing: border-box;
   margin-left: auto;
   margin-right: auto;
@@ -130,11 +130,8 @@ blockquote {
 
 .blog-post-body div p > img {
   max-height: 350px;
-  margin-left: -10%;
-  width: 120%;
   object-fit: cover;
   align-self: center;
-  border-radius: 4px;
 }
 
 .blog-post-body h2, .blog-post-body h3{
@@ -168,8 +165,6 @@ blockquote {
 
   .blog-post-body p > img {
     max-height: 100px;
-    width: 110%;
-    margin-left: -5%;
     object-fit: cover;
   }
 
