@@ -11,6 +11,8 @@ const FooterWrapper = styled(Row)`
 	padding-top: 70px;
 	padding-bottom: 45px;
 	box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+	margin-right: 0px!important; 
+  	margin-left: 0px!important; 
   @media print {
     display: none;
   }
