@@ -1,11 +1,14 @@
 ---
 templateKey: blog-post
-title: It's night and they're sleeping.
+title: It's night and they're sleeping
 description: What do you think they dream about
 author: Jimmy C
 image: /img/averie-woodard-181273-unsplash.jpg
-smTitle: Nighttimes is scary
-smDescription: My succulents go to sleep
+smTitle: It's night and they're sleeping
+smDescription: >-
+  And I will hypnotize that just a little bit. And right there you got an
+  almighty cloud. Now we'll take the almighty fan brush. We'll do another happy
+  little painting.
 color: orange
 date: '2018-07-18T11:47:38-07:00'
 tags:
@@ -14,8 +17,6 @@ tags:
   - sleep
   - bob ross
 ---
-Let's do it again then, _what the heck_. It's hard to see things when you're too close. Take a step back and look. I thought today we would make a happy little stream that's just running through the woods here. You can do anything here. So don't worry about it. You have to allow the paint to break to make it beautiful. Trees live in your fan brush, but you have to scare them out.
-
 And I will hypnotize that just a little bit. And right there you got an almighty cloud. Now we'll take the almighty fan brush. We'll do another happy little painting. It's life. It's interesting. It's fun. You want your tree to have some character. Make it special.
 
 Let's give him a friend too. Everybody needs a friend. As trees get older they lose their chlorophyll. Have fun with it. There comes a nice little fluffer. Let all these little things happen. Don't fight them. Learn to use them.
